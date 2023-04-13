@@ -1,4 +1,4 @@
-This is a SQL project that aims to showcase the ETL process a data analyst can go through in SQL.
+This is a SQL project that aims to showcase a few basic skills a data analyst can go through in SQL. (Extracting, Transforming, Loading, cleaning and preparing Views for dashboarding)
 
 The data set:
 - Contains data relating to covid 19 cases worldwide and their progress through time, it is a vast data set.
